@@ -9,8 +9,8 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-tailwind-css-9FejTnxZon)
+- Live Site URL: [live](https://devnitro5.github.io/Easybank-landing-page/)
 
 ### Built with
 
